@@ -52,6 +52,24 @@ Grade B: 1 student(s)
 Grade C: 1 student(s)
 Grade D: 1 student(s)
 
+## 🛑 .gitignore  
+
+This project uses a `.gitignore` file to avoid committing unnecessary or sensitive files.  
+
+- Ignores Python cache files (`__pycache__/`, `*.pyc`)  
+- Ignores virtual environments (`venv/`)  
+- Ignores environment variables (`.env`)  
+- Ignores OS-specific files (`.DS_Store`, `Thumbs.db`)  
+
+This keeps the repository clean and focused only on relevant source code.
+
+## 📜 License  
+
+This project is licensed under the MIT License.  
+You are free to use, modify, and distribute this software with proper attribution.  
+See the [LICENSE](./LICENSE) file for full details.  
+
+
 Acknowledgements
 This project was created as part of the RITA Africa Python Fundamentals Bootcamp.
 Special thanks to Miss. Nyenpandi Josephine and Rita Africa.
